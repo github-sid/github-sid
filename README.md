@@ -45,19 +45,6 @@ Ride-hailing backend built on Java/Spring with an AWS CodeBuild pipeline (builds
 <!-- Note: none of these four have a description/topics set on GitHub yet — add
      one-liners to each repo's "About" field so the profile and repo pages agree. -->
 
-<br/>
-
-## Stats
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=github-sid&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165em" src="https://leetcard.jacoblin.cool/emailsiddharth1?theme=light&font=baloo2&ext=heatmap" />
-
-</div>
-
-<br/>
-
 ---
 
 <div align="center">
