@@ -30,69 +30,29 @@ I'm a software engineer focused on backend systems, distributed architecture, an
 
 ## Featured Projects
 
-<!--
-  Pin cards below pull their description live from each repo's GitHub "About"
-  field. Add a one-line description + topics on each of these four repos so
-  the cards aren't blank — see the captions here for suggested text.
--->
+**🌐 [EnterpriseNetworking](https://github.com/github-sid/EnterpriseNetworking)**
+Distributed social-networking backend — Java/Spring Boot microservices (auth, posts, connections, notifications), Kafka-based async messaging, service discovery, and Kubernetes manifests.
 
-<div align="center">
+**🏠 [PadCheck](https://github.com/github-sid/PadCheck)**
+AI-powered rental transparency platform — tenants search an address, read renter reviews, and get AI-generated summaries flagging red flags like mold, pests, or heating issues before signing a lease.
 
-<table>
-<tr>
-<td width="50%">
+**💰 [expenseAI](https://github.com/github-sid/expenseAI)**
+AI-assisted expense tracker with a decoupled frontend, backend, and database, containerized with Docker Compose.
 
-<a href="https://github.com/github-sid/EnterpriseNetworking">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=github-sid&repo=EnterpriseNetworking&theme=default&hide_border=true" />
-</a>
-<sub>Distributed social-networking backend — Java/Spring Boot microservices (auth, posts, connections, notifications), Kafka-based async messaging, service discovery, Kubernetes manifests.</sub>
+**🚕 [UberClone](https://github.com/github-sid/UberClone)**
+Ride-hailing backend built on Java/Spring with an AWS CodeBuild pipeline (buildspec.yml) for CI.
 
-</td>
-<td width="50%">
-
-<a href="https://github.com/github-sid/PadCheck">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=github-sid&repo=PadCheck&theme=default&hide_border=true" />
-</a>
-<sub>AI-powered rental transparency platform — tenants search an address, read renter reviews, and get AI-generated summaries flagging red flags like mold, pests, or heating issues before signing a lease.</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<a href="https://github.com/github-sid/expenseAI">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=github-sid&repo=expenseAI&theme=default&hide_border=true" />
-</a>
-<sub>AI-assisted expense tracker with a decoupled frontend, backend, and database, containerized with Docker Compose.</sub>
-
-</td>
-<td width="50%">
-
-<a href="https://github.com/github-sid/UberClone">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=github-sid&repo=UberClone&theme=default&hide_border=true" />
-</a>
-<sub>Ride-hailing backend built on Java/Spring with an AWS CodeBuild pipeline (buildspec.yml) for CI.</sub>
-
-</td>
-</tr>
-</table>
-
-</div>
+<!-- Note: none of these four have a description/topics set on GitHub yet — add
+     one-liners to each repo's "About" field so the profile and repo pages agree. -->
 
 <br/>
 
-## GitHub Stats
+## Stats
 
 <div align="center">
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=github-sid&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=github-sid&layout=compact&theme=default&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=github-sid&theme=default&hide_border=true" />
+<img height="165em" src="https://leetcard.jacoblin.cool/emailsiddharth1?theme=light&font=baloo2&ext=heatmap" />
 
 </div>
 
